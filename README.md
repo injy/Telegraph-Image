@@ -27,6 +27,8 @@ Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages an
 在pages的自定义域里面，绑定cloudflare中存在的域名，在cloudflare托管的域名，自动会修改dns记录
 ![2](https://telegraph-image.pages.dev/file/29546e3a7465a01281ee2.png)
 
+修改网点描述和标题需要修改JS里面的内容。
+
 ### Limitations
 1.由于图片文件实际存储于Telegraph，Telegraph限制上传的图片大小最大为5MB
 
